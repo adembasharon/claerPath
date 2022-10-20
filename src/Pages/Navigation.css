@@ -1,0 +1,13 @@
+.nav {
+	background-color: #228B22;
+	width: 100%;
+	padding: 1em;
+}
+
+.nav-items {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	align-items: center;
+    color: #fff;
+}
